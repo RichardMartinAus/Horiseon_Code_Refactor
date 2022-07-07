@@ -8,7 +8,7 @@ I started by adding a concise and descriptive title to the head section of the c
 
 The biggest challenge I faced was that I wanted to add an alt value to the hero image to make it screen-reader-friendly and thus more accessible. To do so I had to create a container <section> and style the image to be responsive with object properties (as opposed to just using a div tag and styling the image using background properties).
 
-Link to the deployed site: https://richardmartinaus.github.io/module01-challenge/  
+Link to the deployed site: https://richardmartinaus.github.io/Horiseon_Code_Refactor/
 
 Below is a sceenshot of the completed site. 
   
